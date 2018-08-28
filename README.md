@@ -1,4 +1,10 @@
 # Tic-Tac-Toe-2
 
+(Tic-Tac-Toe)^2 is a two-player game based off the original Tic-Tac-Toe.
 
-![alt text](https://raw.githubusercontent.com/dexink1/Tic-Tac-Toe-2/ttt%20pic.png)
+Play now at www.ics.uci.edu/~dexink1/ttt
+
+The file
+
+
+How to play:
