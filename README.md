@@ -4,7 +4,7 @@
 
 Play now at www.ics.uci.edu/~dexink1/ttt
 
-The file is a simple html file that you can download and open with any web browser.
+The file is a simple HTML file that you can download and open with any web browser.
 
 How to play:
 The game consists of 9 sets of Tic-Tac-Toes. To win the game, one player must win 3 sets that make a line. A player may only play the set that is consistent with the position played by the last move. 
